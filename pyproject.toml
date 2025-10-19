@@ -22,8 +22,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ВАШ_НІКНЕЙМ/my-python-head"
-Issues = "https://github.com/ВАШ_НІКНЕЙМ/my-python-head/issues"
+Homepage = "https://github.com/anastasiatrushchak/my-python-head"
+Issues = "https://github.com/anastasiatrushchak/my-python-head/issues"
 
 [project.scripts]
 myhead = "myhead.cli:main"
